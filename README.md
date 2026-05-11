@@ -1,6 +1,6 @@
 # Hey, soy Diego Martínez 👋
 
-**QA Automation Engineer** · Playwright · TypeScript · K6 · Allure · GitHub Actions
+**QA Automation Engineer** · Playwright · TypeScript · Java · Selenium · K6 · Allure · GitHub Actions
 
 Apasionado por construir suites de testing robustas, detectar bugs antes de que lleguen a producción y aplicar las mejores prácticas de QA en proyectos reales. Actualmente trabajando en un proyecto completo de automatización sobre una plataforma de e-commerce con enfoque en E2E, API testing y performance.
 
