@@ -30,7 +30,7 @@ Suite de automatización senior sobre [qacloud.dev](https://www.qacloud.dev) —
 |------|-------|--------|
 | **E2E Tests** | Playwright + TypeScript | ✅ Market App |
 | **API Tests** | Playwright Request | ✅ CRUD + Edge Cases |
-| **Performance** | K6 | 🔄 En progreso |
+| **Performance** | K6 | ✅ Nightly run Market App |
 | **CI/CD** | GitHub Actions | ✅ Pipelines activos |
 | **Reporting** | Allure Framework | ✅ Configurado |
 
