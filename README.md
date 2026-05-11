@@ -43,8 +43,7 @@ Suite de automatización senior sobre [qacloud.dev](https://www.qacloud.dev) —
 | Repositorio | Descripción | Stack |
 |------------|-------------|-------|
 | [qacloud-qa-project](https://github.com/Martineez99/qacloud-qa-project) | Suite QA completa: E2E, API y Performance | TS · Playwright · K6 |
-| [Cypress-e2e-testing](https://github.com/Martineez99/Cypress-e2e-testing-) | Tests E2E con Cypress | JavaScript |
-| [Demo_Eltiempo](https://github.com/Martineez99/Demo_Eltiempo) | Demo web — integración con API del tiempo | HTML |
+
 
 ---
 
